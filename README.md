@@ -1,5 +1,5 @@
-[![MasterHead](https://giffiles.alphacoders.com/120/120237.gif)
-<h1 align="center">Hi 👋, I'm Umair Sarwar</h1>
+![MasterHead](https://giffiles.alphacoders.com/120/120237.gif)
+<h1 align="center">Assalamualaikum 👋, I'm Umair Sarwar</h1>
 <h3 align="center">A passionate Full Stack Developer from Pakistan</h3>
 <img align="right" alt="Coding" width="400" src="https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExbjM1dXJhNzR3MjZ6MW5wbzdseGgyemx2ZTcwM2U4MGdpczdvODV1cyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/vrxxqQbyRxYi6scCjT/giphy.gif">
 
