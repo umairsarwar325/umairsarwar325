@@ -2,7 +2,6 @@
 #### MERN Developer
 ![I am a MERN Developer](https://github.com/umairsarwar325/umairsarwar325/blob/main/Banner.png)
 
-I'm Umair from Pakistan, and I do Web Development. I am proficient in Frontend (HTML, CSS, JS, GSAP, TAILWIND, BOOTSTRAP) as well as Backend (NODE, EXPRESS, MONGODB) and REACT. I am passionate about making Modern Website and learning BLENDER and THREE JS. I am also learning JAVA and SPRING BOOT
+I'm Umair from Pakistan, and I am Web Developer with a strong foundation in both frontend and backend technologies. Proficient in HTML, CSS, JavaScript, GSAP, Tailwind CSS, and Bootstrap. Skilled in building backend systems with Node.js, Express.js, and MongoDB. Experienced in developing dynamic web applications using React. Passionate about creating modern web experiences and exploring the potential of 3D visualization with Blender and Three.js. Continuously expanding skillset by learning Java and Spring Boot.
 
-Skills: REACT / JS / HTML / CSS / NODE / EXPRESS / MONGODB / BLENDER
- 
+Skills: React, JavaScript, HTML, CSS, Node.js, Express.js, MongoDB, Blender, Three.js, Java, Spring Boot
